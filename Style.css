@@ -1,0 +1,64 @@
+body
+{
+    height:100vh;
+    width:100vw;    
+    display: flex;
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+}
+button
+{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 20% px groove;
+    border-color: whitesmoke;
+}
+
+button:hover
+{
+    cursor: pointer;
+    opacity:.8;
+}
+div
+{
+    align-self: center;
+}
+#but_1
+{
+    background-color: #ea4335;
+}
+#but_2
+{
+     background-color: #4285f4;
+}
+#but_3
+{
+    background-color: #FF6F00;
+}
+#but_4
+{
+    background-color: #34a853;
+}
+#but_5
+{
+    background-color: #fbbc04;
+}
+#but_6
+{
+    background-color: #01579B;
+}
+#but_7
+{
+    background-color: #F50057;
+}
+#but_8
+{
+    background-color: #E91E63;
+}
+h1
+{
+    text-align: center;
+    color: whitesmoke;
+}
